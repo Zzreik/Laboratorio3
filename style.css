@@ -7,9 +7,10 @@
     padding: 10px 20px;
 }
 
-h1,h3,p
+h1,h3,p,li
 {
-    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
 }
 
 .menu a
@@ -19,18 +20,23 @@ h1,h3,p
     margin-right: 15px;
 }
 
+
 .titulo
 {
     color: white;
 }
 
-.Inicio
+body
 {
-    background-color:#1E3A5F;
-    color: white;
+    font
 }
 
-.destinos
+img{
+    border: 4px solid #1E3A5F;
+    border-radius: 10px;
+}
+
+body
 {
-    background-color: #4DA8DA;
+    background-color: #1E3A5F;
 }
