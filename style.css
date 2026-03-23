@@ -3,12 +3,13 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #0F2A44;
+    background-color: #081624;
     padding: 10px 20px;
     box-shadow: 0px 3px 10px rgba(0,0,0,0.5);
+
 }
 
-h1,h2,h3,p,li
+h1,h2,h3,p,li, .navbar
 {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     color: white;
@@ -64,7 +65,7 @@ html, body
 }
 body
 {
-    background-color: #1E3A5F;
+    background-color: #152841;
     display: flex;
     flex-direction: column;
 }
@@ -82,10 +83,8 @@ footer
     padding: 10px;
 }
 
-.card
+
+table
 {
-    background: #0F2A44;
-    padding: 20px;
-    border-radius: 10px;
-    margin: 20px 0;
+    color: white;
 }
